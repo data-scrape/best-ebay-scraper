@@ -35,38 +35,6 @@
 
 
 
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/best-ebay-scraper?style=social)](https://github.com/data-scrape/best-ebay-scraper)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/best-ebay-scraper?style=social)](https://github.com/data-scrape/best-ebay-scraper/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/best-ebay-scraper)](https://github.com/data-scrape/best-ebay-scraper/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/best-ebay-scraper)](https://github.com/data-scrape/best-ebay-scraper/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Best eBay scraper 2025 - extract product listings and seller data
-
-
-<!-- SEO keywords: best ebay scraper, Best Ebay Scraper, best ebay scraper python, best ebay scraper github, best best ebay scraper -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
 > Looking for the **best eBay Scraper**?
 
 [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7) provides production-ready eBay data APIs for extracting public product listings, prices, sold items, sellers, search results, and marketplace data.
